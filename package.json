@@ -1,0 +1,28 @@
+{
+  "name": "whiteboard-poc",
+  "version": "0.1.0",
+  "description": "Render narrated whiteboard-style animation videos from a transcript and a scene.json",
+  "type": "module",
+  "bin": {
+    "whiteboard": "src/cli.js"
+  },
+  "exports": {
+    ".": "./src/cli.js",
+    "./art-kit": "./tools/art-kit.cjs",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "check:geometry": "node test/geometry-determinism.js",
+    "test": "node test/geometry-determinism.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "commander": "^15.0.0",
+    "roughjs": "^4.6.6",
+    "svg-path-properties": "^2.1.0",
+    "zod": "^4.6.7"
+  }
+}

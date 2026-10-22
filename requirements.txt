@@ -1,0 +1,8 @@
+# Optional: exact word timing (tools/align-mms.py, tools/spoken-check.py).
+# Install into .venv-align (see README). CPU builds of torch are enough.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1
+torchaudio==2.11.0
+numpy==2.5.4
+soundfile==0.14.0
+uroman==1.3.1.1

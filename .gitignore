@@ -1,0 +1,10 @@
+# your videos and inputs (local only)
+/my/
+
+# installed dependencies
+node_modules/
+.venv-align/
+__pycache__/
+
+# personal Claude Code settings
+.claude/settings.local.json

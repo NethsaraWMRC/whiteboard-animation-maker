@@ -1,0 +1,116 @@
+{
+  "database": {
+    "description": "A database cylinder (stacked disk) with a middle band",
+    "strokeOrder": [
+      0,
+      1,
+      2
+    ]
+  },
+  "user": {
+    "description": "A person silhouette: round head over shoulders",
+    "strokeOrder": [
+      0,
+      1
+    ]
+  },
+  "server": {
+    "description": "A rack server: two stacked rack units with a drive slot and status lights",
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "artist": {
+    "description": "An artist with a beret, palette and brush; creative work, designer, making art",
+    "tags": [
+      "person",
+      "creative",
+      "design",
+      "paint"
+    ],
+    "strokeOrder": [
+      17,
+      16,
+      0,
+      13,
+      14,
+      15,
+      11,
+      21,
+      20,
+      22,
+      10,
+      6,
+      9,
+      7,
+      2,
+      1,
+      19,
+      5,
+      18,
+      4,
+      3,
+      12,
+      8
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "iconify",
+      "id": "openmoji:man-artist",
+      "url": "https://icon-sets.iconify.design/openmoji/man-artist/"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji",
+      "collection": "OpenMoji"
+    }
+  },
+  "detective": {
+    "description": "A detective with a magnifying glass; searching, looking for something, research",
+    "tags": [
+      "person",
+      "search",
+      "magnifier",
+      "looking"
+    ],
+    "strokeOrder": [
+      14,
+      4,
+      7,
+      6,
+      13,
+      5,
+      12,
+      11,
+      9,
+      10,
+      18,
+      8,
+      3,
+      0,
+      2,
+      17,
+      16,
+      1,
+      15
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "iconify",
+      "id": "openmoji:detective",
+      "url": "https://icon-sets.iconify.design/openmoji/detective/"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "OpenMoji",
+      "collection": "OpenMoji"
+    }
+  }
+}
