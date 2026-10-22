@@ -29757,5 +29757,624 @@
     "license": {
       "spdx": "original"
     }
+  },
+  "in_mic": {
+    "description": "A studio microphone on a stand (teal); voice, recording, narration",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_mic.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_waves": {
+    "description": "Three orange sound-wave arcs going right; a voice, sound",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_waves.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_bulb": {
+    "description": "Layer: a glowing lightbulb (idea) drawn in ink with orange rays",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      2,
+      96,
+      96
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_bulb.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_pencil": {
+    "description": "Layer: an orange pencil touching the lightbulb drawing",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      2,
+      96,
+      96
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_pencil.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_page": {
+    "description": "A page of text labelled script.txt; the narration script",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_page.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_audio": {
+    "description": "An audio card with a sound waveform, labelled voice.mp3; the recording",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_audio.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_claude": {
+    "description": "Pill: orange sparkle + \"Claude\"; the AI agent",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_claude.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_strip": {
+    "description": "Layer: audio strip with a pale waveform across the bottom",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_strip.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_word1": {
+    "description": "Layer: word chip \"sun\" on the audio strip",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_word1.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_word2": {
+    "description": "Layer: word chip \"cloud\" on the audio strip",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_word2.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_word3": {
+    "description": "Layer: word chip \"rain\" on the audio strip",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_word3.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_slot1": {
+    "description": "Layer: dashed empty picture slot 1 with an orange ?",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_slot1.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_slot2": {
+    "description": "Layer: dashed empty picture slot 2 with an orange ?",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_slot2.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_slot3": {
+    "description": "Layer: dashed empty picture slot 3 with an orange ?",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_slot3.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_pic1": {
+    "description": "Layer: a yellow sun with orange rays (above \"sun\")",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_pic1.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_pic2": {
+    "description": "Layer: a white puffy cloud (above \"cloud\")",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_pic2.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_pic3": {
+    "description": "Layer: a grey rain cloud with blue drops (above \"rain\")",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_pic3.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_sync": {
+    "description": "Layer: orange dashed sync lines from each word up to its picture",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "roughness": 0.5,
+    "frame": [
+      2,
+      29.43,
+      96,
+      41.14
+    ],
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_sync.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_al": {
+    "description": "Orange pill: A/L students",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_al.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_free": {
+    "description": "Orange badge: FREE",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_free.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_github": {
+    "description": "Teal pill: on GitHub",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_github.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_step1": {
+    "description": "Step card 1: clone",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_step1.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_step2": {
+    "description": "Step card 2: connect agent",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_step2.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_step3": {
+    "description": "Step card 3: try it",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_step3.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
+  },
+  "in_tagline": {
+    "description": "End card pill: voice -> video",
+    "tags": [
+      "intro promo"
+    ],
+    "strokeOrder": [
+      0,
+      1
+    ],
+    "roughness": 0.5,
+    "source": {
+      "provider": "file",
+      "file": "my\\intro\\art\\in_tagline.svg"
+    },
+    "license": {
+      "spdx": "original"
+    }
   }
 }

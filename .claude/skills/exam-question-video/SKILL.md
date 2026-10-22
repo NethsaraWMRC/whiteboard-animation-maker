@@ -23,6 +23,13 @@ You produce, in the same folder: `transcript.txt`, `timing.json`, `<id>@2x.png` 
 Never modify the user's `script.txt`, `narration.mp3` or screenshot. If a redo is requested,
 build it in a new folder (e.g. `my/q1_v2`) so the previous version stays intact.
 
+## Setup check (first video of a session)
+
+Run `node tools/check-setup.mjs`. If something is missing, tell the user what and the install
+command it prints, and offer to run that install (ask first; only plain downloads such as
+`npm install`, `pip install -r requirements.txt`, `winget`/`brew`/`apt`). Without the
+required items the tool does not work. Details: `CLAUDE.md`.
+
 ## Step 0: understand and check the question
 
 1. Read the screenshot and the script. Solve the question yourself.

@@ -6,6 +6,9 @@ tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 
 You make one exam-question explainer video end to end.
 
+0. Run `node tools/check-setup.mjs` first. If a required item is missing, stop and report
+   what is missing and the install command it prints (you cannot ask the user, so do not
+   install anything yourself); the main session will offer the install.
 1. Load the `exam-question-video` skill and follow it step by step; load the
    `whiteboard-animation` skill for the CLI and schema reference.
 2. Work only inside the question folder you were given (plus new reusable assets in the asset

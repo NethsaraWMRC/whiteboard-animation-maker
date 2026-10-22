@@ -35,6 +35,13 @@ Study any good explainer channel and you see the same rules. Follow them:
    (`enter: "pop"`); transformations are a pop-out followed by a pop-in in the same spot (A
    becomes B).
 
+## Setup check (first video of a session)
+
+Run `node tools/check-setup.mjs`. If something is missing, tell the user what and the install
+command it prints, and offer to run that install (ask first; only plain downloads such as
+`npm install`, `pip install -r requirements.txt`, `winget`/`brew`/`apt`). Without the
+required items the tool does not work. Details: `CLAUDE.md`.
+
 ## Workflow
 
 1. **Prepare the transcript.** If it contains things that are not spoken (caption timestamps,

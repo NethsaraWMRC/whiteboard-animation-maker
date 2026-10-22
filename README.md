@@ -27,6 +27,12 @@ py -3.12 -m venv .venv-align
 
 The first run downloads the alignment model (about 1 GB).
 
+Check everything is ready (it prints how to install anything missing):
+
+```
+node tools/check-setup.mjs
+```
+
 ## 3. Make a video
 
 1. Put your files in a folder under `my/`:
@@ -59,9 +65,10 @@ They live in `.claude/skills/` and `.claude/agents/`.
 
 ## Good to know
 
-- `my/` (your videos) and `assets/` (the drawing library) stay on your computer and are not in
-  git. A fresh clone starts with an empty library; Claude draws the pictures it needs
-  (narrator, badges, ...) during the first video and reuses them after that.
+- `my/` (your videos) stays on your computer and is not in git. `assets/` is the shared drawing
+  library; new drawings Claude makes are added there and reused in later videos.
+- Missing something? Claude runs the setup check first, tells you what is missing and offers
+  to install it (it asks before installing anything).
 - Manual use without Claude: `node src/cli.js --help` (`align`, `validate`, `preview`, `render`).
 - Code: `src/` is the renderer and CLI, `tools/` holds the shared helpers (drawing kit, word
   timing).

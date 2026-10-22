@@ -19,6 +19,13 @@ one script. Never modify them. You produce in the same folder: `narration.mp3` (
 audio came in parts), `transcript.txt`, `timing.json`, `sentences.txt`, `art/` (builders +
 SVGs), `gen-scene.cjs`, `scene.json`, `schedule.txt`, `sheet*.png` and **`<Topic>.mp4`**.
 
+## Setup check (first video of a session)
+
+Run `node tools/check-setup.mjs`. If something is missing, tell the user what and the install
+command it prints, and offer to run that install (ask first; only plain downloads such as
+`npm install`, `pip install -r requirements.txt`, `winget`/`brew`/`apt`). Without the
+required items the tool does not work. Details: `CLAUDE.md`.
+
 ## Step 1: audio, exact timing, and does the audio say the script?
 
 The pause-based estimate (`src/cli.js align`) only guesses where sentences are; on a 15-minute
